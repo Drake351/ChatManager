@@ -1,0 +1,7 @@
+name: ChatManager
+main: com.drake.chatmanager.ChatMain
+version: 1.0
+commands:
+   chat:
+      description: Chat
+      usage: 
